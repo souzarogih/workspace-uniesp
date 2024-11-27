@@ -1,0 +1,25 @@
+{
+  "noticias": [
+    {
+      "titulo": "Tecnologia",
+      "texto": "Nova IA ajuda a criar sites de forma rapida para evolução da especie humana.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Economia",
+      "texto": "Inflação tem leve queda em outubro."
+    },
+    {
+      "id": "3",
+      "titulo": "Esportes",
+      "texto": "Time local vence campeonato."
+    },
+    {
+      "id": "0b24",
+      "titulo": "Carros eletricos",
+      "subtitulo": "",
+      "texto": "existe chance dos carros eletricos voarem em 5 anos"
+    }
+  ]
+}
